@@ -133,7 +133,7 @@ npm install
 npm run dev
 
 Open in browser:
-[http://localhost:5173](http://localhost:5173)
+[https://gita-web-sanak.vercel.app/](https://gita-web-sanak.vercel.app/)
 
 ---
 
@@ -245,3 +245,4 @@ Static hosting (Netlify, Vercel, GitHub Pages):
 ## License
 
 Currently proprietary — license to be determined.
+
